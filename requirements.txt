@@ -10,7 +10,7 @@ extras==1.0.0
 mysqlclient==2.0.3
 numpy==1.19.0
 pandas==1.1.5
-Pillow==8.2.0
+Pillow==9.3.0
 python-dateutil==2.8.1
 pytz==2021.1
 six==1.16.0
